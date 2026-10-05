@@ -1,4 +1,4 @@
-# Hi, I'm Osteen 👋
+# Hi, I'm Austin 👋
 
 Full-stack development and robotics learner based in Nairobi, Kenya.
 I enjoy building websites and exploring how software controls hardware.
